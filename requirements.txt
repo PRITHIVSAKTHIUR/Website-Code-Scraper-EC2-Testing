@@ -1,4 +1,5 @@
 requests
 beautifulsoup4
-gradio
-gdown
+gradio==4.26.0
+fastapi==0.111.1
+markupsafe==2.0.1
